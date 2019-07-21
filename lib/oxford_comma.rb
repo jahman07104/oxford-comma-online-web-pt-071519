@@ -1,6 +1,6 @@
 def oxford_comma(array)
   
- 
+ if array.length == 2
   array.join ("and")  
  end
 # def oxford_comma(array,bill)
